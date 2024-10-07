@@ -27,7 +27,7 @@
 ## Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rails" />
+    <img src="https://skillicons.dev/icons?i=rails,react" />
   </a>
 </p>
 
@@ -38,3 +38,9 @@
   </a>
 </p>
 
+## Others
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</p>
