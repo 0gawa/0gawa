@@ -17,7 +17,7 @@
 
 ## 🚀 Stats
 <p align="left">
-  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gawa&layout=compact&theme=onedark&hide_border=false&include_all_commits=true" />
+  <img alt="Top Langs" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0gawa&layout=compact&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" />
   <img alt="GitHub Stats" height="165px" src="https://github-readme-stats.vercel.app/api?username=0gawa&theme=onedark&show_icons=true" />
 </p>
 
